@@ -27,3 +27,7 @@ Classes that this model can predict or recognise:
                                       ship	
                                       
                                       truck
+
+
+![image](https://user-images.githubusercontent.com/64769792/224474100-4b254b57-7bab-404f-a300-5a38f3be7ff9.png)
+![image](https://user-images.githubusercontent.com/64769792/224474156-dc8f71f3-c1df-4686-9518-2efc8c78e9bb.png)
