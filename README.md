@@ -1,6 +1,6 @@
 # Flask_APP-Image-Classification-with-CIFAR-10-
 
-In this model_1.py, I have converted densenet architecture into tflite format, \
+In this model_1.py, I have used a converted densenet architecture which is in tflite format, \
 
 The data set on which model is trained: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
