@@ -1,4 +1,4 @@
-# Flask_APP-Image-Classification-with-CIFAR-10-
+# Flask_APP-Image-Classification-for-CIFAR-10-Classes
 
 In this model_1.py, I have used a converted densenet architecture which is in tflite format, \
 
